@@ -1,0 +1,82 @@
+.div-top {
+    border-color: #000000;
+    border-style: solid;
+    border-width: 5px;
+    width: 95vw;
+    height: 30vh;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+}
+
+.vert-rectangle {
+    background-color: blueviolet;
+    width: 4%;
+    height: 67%;
+    position: relative;
+    margin-left: 1vw;
+}
+
+.horz-rectangle {
+    background-color: forestgreen;
+    height: 95%;
+    width: 40%;
+    position: relative;
+    top: 2.5%;
+    margin-left: 4vw;
+}
+
+.circle {
+    background-color: skyblue;
+    width: 15%;
+    height: 85%;
+    border-radius: 100%;
+    margin-left: 5vw;
+}
+
+.div-middle {
+    border-color: #000000;
+    border-style: dotted;
+    border-width: 5px;
+    width: 95vw;
+    height: 25vh;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+}
+
+.inner-middle {
+    width: 90%;
+    height: 80%;
+    background-color: lemonchiffon;
+    margin-left: 5%;
+    margin-right: 5%;
+    position: relative;
+    margin-top: 2.5vh;
+    box-shadow: 10px 10px 5px #000000;
+}
+
+.div-bottom {
+    width: 40%;
+    height: 30vh;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: 3px 3px 3px #cccccc;
+    margin: auto;
+}
+
+.first {
+    margin-top: 13vh;
+}
+
+p {
+    text-align: center;
+}
+
+
+div div {
+    display: inline-block;
+}
