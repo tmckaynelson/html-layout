@@ -1,0 +1,46 @@
+.top {
+    background-color: #D8D8D8;
+}
+
+.inner-top {
+    background-color: #4A90E2;
+    height: 90%;
+    top: 5%;
+    position: relative;
+    width: 7vw;
+    margin-left: 3vw;
+}
+
+.white {
+    background-color: #ffffff;
+    height: 30vh;
+}
+
+.blue {
+    background-color: #4A90E2;
+}
+
+.green {
+    background-color: #50E3C2;
+}
+
+.green-yellow {
+    background-color: #B8E986;
+}
+
+.yellow {
+    background-color: #F8E71C;
+}
+
+div {
+    height: 14vh;
+    width: 100%;
+}
+
+p {
+    width: 90%;
+    font-size: 42px;
+    margin: auto;
+    top: 20%;
+    position: relative;
+}
